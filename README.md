@@ -2,7 +2,7 @@
 
 # In je eentje (geen overleg):
 Bedenk welke 3 stappen je moet doen om een class te maken
-schrijf deze even op in een tekst file
+schrijf deze op in een tekst file
 
 # Bekijk elkaars werk
 1. bekijk of jullie dezelfde stappen hebben
