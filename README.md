@@ -42,3 +42,4 @@ schrijf deze op in een tekst file
 # GIT
 
 zet de javascript file in git en post de link even naar mij in teams
+- we gaan een aantal van jullie classes klassikaal bekijken & behandelen
